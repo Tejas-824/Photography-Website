@@ -1,5 +1,9 @@
-# Photography-Website
+# Photography-Website📷🌌
 Photography website built entirely with HTML and CSS, crafted to showcase visuals with elegance and focus. 
+
+
+✨ Dive in and enjoy the artistry of photography!
+
 
 #Screenshots
 
@@ -12,4 +16,4 @@ Photography website built entirely with HTML and CSS, crafted to showcase visual
 
 
 
-Thanks for viewing!
+Thanks for viewing!👀👀
